@@ -20,15 +20,15 @@ public class Main {
                 new Horse(200.50, 7, "Yellow", "Male", "Spirit"),
                 new Horse(150.45, 3, "Black", "Female", "Jorgo"),
 
-                new Cow(100.3, 5, "Male", "Mulka"),
-                new Cow(300.1, 3, "Female", "Sary ui"),
-                new Cow(150, 6, "Male", "Kara ui"),
-                new Cow(180.70, 5, "Female", "Kyzyl ui"),
-                new Cow(390.90, 2, "Male", "Torpok"),
+                new Cow(164.3, 5, "Male", "Mulka"),
+                new Cow(150.1, 3, "Female", "Sary ui"),
+                new Cow(170, 6, "Male", "Kara ui"),
+                new Cow(110.70, 5, "Female", "Kyzyl ui"),
+                new Cow(100.90, 2, "Male", "Torpok"),
 
-                new Sheep(90.60, 5, "Male", "Jakshy koi"),
-                new Sheep(90.56, 3, "Female", "Chiksa koi"),
-                new Sheep(75.80, 5, "Male", "Kara koi")};
+                new Sheep(40.60, 5, "Male", "Jakshy koi"),
+                new Sheep(25.56, 3, "Female", "Chiksa koi"),
+                new Sheep(28.80, 5, "Male", "Kara koi")};
 
         System.out.println();
 
