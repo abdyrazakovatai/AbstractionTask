@@ -33,6 +33,9 @@ public class Main {
         Farm farm1 = new Farm("Tokmok", animals, "Talgat");
         System.out.println(farm1);
 
+
+
+
         Animal[] animal = {
                 new Sheep(100.56, 6, "Female", "Gisar"),
 
