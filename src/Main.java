@@ -30,8 +30,6 @@ public class Main {
                 new Sheep(25.56, 3, "Female", "Chiksa koi"),
                 new Sheep(28.80, 5, "Male", "Kara koi")};
 
-        System.out.println();
-
         Farm farm1 = new Farm("Tokmok", animals, "Talgat");
         System.out.println(farm1);
 
